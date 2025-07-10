@@ -114,12 +114,4 @@ For Vercel deployment:
 
 ---
 
-## 🤝 Contact
-
-**Developer:** Sashen Jayathilaka  
-**Email:** sashenjayathilaka95@gmail.com  
-**GitHub:** [https://github.com/SashenJayathilaka](https://github.com/SashenJayathilaka)
-
----
-
 > 💡 *If you found this project useful, feel free to give it a ⭐️ on GitHub!*
